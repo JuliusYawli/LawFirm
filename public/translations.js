@@ -103,7 +103,7 @@ export const english = {
  "Ao utilizar links de e-mail ou WhatsApp, você abrirá serviços externos. A mensagem e os dados que decidir enviar serão tratados pelos provedores envolvidos, conforme suas próprias políticas. Envie apenas o necessário para o primeiro contato.": "Email and WhatsApp links open external services. Your messages and any information you send are processed by those providers under their own policies. Send only what is necessary for the initial inquiry.",
  "NAVEGUE": "EXPLORE",
  "FALE CONOSCO": "GET IN TOUCH",
- "Voltar ao início ↑": "Back to top ↑",
+ "Voltar ao início": "Back to top",
  "Nossa atuação": "Practice areas",
  "Sobre nós": "About us",
  "Localização": "Location",
